@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+	<metadata>
+		<name>Flur- und Naturdenkmale im Sebalder Reichswald</name>
+		<sym>Scenic Area</sym>
+		<cmt>Flur- und Naturdenkmale im Sebalder Reichswald, aufgelistet vom Heimat- und Geschichtsverein Erlangen</cmt>
+		<author>
+			<name>Martin Haseneyer</name>
+		</author>
+		<link href="https://hugv.de/app/fd/"><text>Datenquelle: Web-App des Heimat- und Geschichtsvereins Erlangen</text></link>
+		<link href="https://github.com/mhaseneyer/gpx"><text>Diese Datei auf Github</text></link>
+		<time>2019-08-27T11:50:00Z</time>
+	</metadata>
+	<wpt lat="49.588734" lon="11.048479">
+		<name>1: Bannwaldgedenkstein (1980)</name>
+		<sym>Scenic Area</sym>
+		<cmt>1979 wurde der Sebalder Reichswald zum Bannwald deklariert. Dieser Wald muss in seiner Substanz geschützt und erhalten werden.</cmt>
+	</wpt>
+	<wpt lat="49.584963" lon="11.054610">
+		<name>2: Walter-Vogel-Stein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Stein erinnert an Forstmeister Walter Vogel, den Leiter des Forstamtes Erlangen von 1931 bis 1959.</cmt>
+	</wpt>
+	<wpt lat="49.585469" lon="11.060436">
+		<name>3: Weißer Ruhstein (17.-18. Jhd.)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Ruh- und Raststeine dienten zum Abstellen von Traglasten, aber auch als Totenraststeine zum Abstellen von Särgen, die auf diesem Weg zum Tennenloher Friedhof getragen wurden.</cmt>
+	</wpt>
+	<wpt lat="49.589506" lon="11.064881">
+		<name>4: Gesundbrunnen</name>
+		<sym>Scenic Area</sym>
+		<cmt>1709 wurde das hier austretende Wasser als Heilwasser deklariert. 1975 wurde die Brunnenfassung renoviert, die Wasserzufuhr ist heute gestört.</cmt>
+	</wpt>
+	<wpt lat="49.588589" lon="11.067084">
+		<name>5: Indianerschlucht</name>
+		<sym>Scenic Area</sym>
+		<cmt>Die &quot;Schlucht&quot; des Muckenbaches führt durch die geologische Schicht des Oberen Burgsandsteins.</cmt>
+	</wpt>
+	<wpt lat="49.589691" lon="11.067305">
+		<name>6: Fünf Schützen</name>
+		<sym>Scenic Area</sym>
+		<cmt>Mit dieser Wehranlage wurde die Schwabach durch fünf Schütze aufgestaut. Mit dem aufgestauten Wasser wurden die Wiesen in der Buckenhofer Talaue bewässert. Die fünf Schütze wurden inzwischen abgebaut.</cmt>
+	</wpt>
+	<wpt lat="49.588714" lon="11.070332">
+		<name>7: Bannwaldgedenkstein (1986)</name>
+		<sym>Scenic Area</sym>
+		<cmt>1979 wurde der Sebalder Reichswald zum Bannwald deklariert. Dieser Wald muss in seiner Substanz geschützt und erhalten werden.</cmt>
+	</wpt>
+	<wpt lat="49.588749" lon="11.073650">
+		<name>8: Ludwig-Zündt-Stein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Zur Erinnerung an den Revierförster Zündt, der von 1953 bis 1973 das Forstrevier Buckenhof leitete.</cmt>
+	</wpt>
+	<wpt lat="49.584587" lon="11.065846">
+		<name>9: Fuchsstein (1976)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Stein mit dem schnürenden Fuchs aus Edelstahl war die 1. Arbeit von Hermann Weinberger im Reichswald.</cmt>
+	</wpt>
+	<wpt lat="49.583168" lon="11.071723">
+		<name>10: Birkenlachstein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dieser Orienterungsstein trägt den Namen des angrenzenden Waldortes &quot;Birkenlach&quot;.</cmt>
+	</wpt>
+	<wpt lat="49.582970" lon="11.103800">
+		<name>11: Otterstein (1979)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Orienterungsstein soll an das frühere Vorkommen des Fischotters im Sebalder Reichswald erinnern.</cmt>
+	</wpt>
+	<wpt lat="49.584350" lon="11.137279">
+		<name>12: Taubenschläglein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Die eingemeißelte Taube soll an einen ehemals beliebten Brutplatz von Wildtauben erinnern.</cmt>
+	</wpt>
+	<wpt lat="49.581388" lon="11.147661">
+		<name>13: Mühlwegstein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dieser Sandsteinblock trägt den Namen der hiesigen Waldabteilung &quot;Mühlweg&quot;.</cmt>
+	</wpt>
+	<wpt lat="49.580142" lon="11.132500">
+		<name>14: Mühlstein (1625)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Ein Ruh- und Raststein, der zum Abstellen von Traglasten, aber auch als Totenraststein zum Abstellen von Särgen der Mühlenbewohner diente, die hier zum Kalchreuther Friedhof getragen wurden.</cmt>
+	</wpt>
+	<wpt lat="49.579877" lon="11.131855">
+		<name>15: Bannwalddenkmal (1979)</name>
+		<sym>Scenic Area</sym>
+		<cmt>1979 wurde der Sebalder Reichswald zum Bannwald deklariert. Dieser Wald muss in seiner Substanz geschützt und erhalten werden.</cmt>
+	</wpt>
+	<wpt lat="49.575125" lon="11.125302">
+		<name>16: Teufelseiche</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Sage nach soll unter der Teufelseiche einer Bäuerin aus Dormitz der Teufel begegnet sein.</cmt>
+	</wpt>
+	<wpt lat="49.575646" lon="11.111023">
+		<name>17: Kreuzstein (1970)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der heutige Stein erinnert an ein historisches Steinkreuz, das in den 1960er Jahren durch militärische Übungen der US Army zerstört wurde.</cmt>
+	</wpt>
+	<wpt lat="49.578381" lon="11.100824">
+		<name>18: Hasensteinsäule Errichtet um 1880 (1975 Instandsetzung)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dieser Sandsteinobelisk steht am Ende der Waldschneise &quot;Hasensteinlinie&quot;, die vom Markgrafen 1750 veranlasst wurde, um Parforcejagden durchführen zu können.</cmt>
+	</wpt>
+	<wpt lat="49.578072" lon="11.098092">
+		<name>19: Hasenbrünnlein (19. Jhd.)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Die Quellfassung aus Sandstein zeigt einen eingemeißelten Hasen und wurde vor einigen Jahren restauriert.</cmt>
+	</wpt>
+	<wpt lat="49.576998" lon="11.087202">
+		<name>20: Arnoldgedenkstein (1851)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Zur Erinnerung an den unglücklichen Tod des Revierförsters Arnold (1792-1851) durch das Gewehr eines Begleiters.</cmt>
+	</wpt>
+	<wpt lat="49.575374" lon="11.058528">
+		<name>21: Kreuzeiche</name>
+		<sym>Scenic Area</sym>
+		<cmt>An dieser Stelle stand eine mächtige, mehrere hundert Jahre alte Eiche. Der Name leitet sich von einem aufgemalten, weißen Kreuz ab. Die usprüngliche Kreuzeiche wurde um 1960 von amerikanischen Panzern zerstört.</cmt>
+	</wpt>
+	<wpt lat="49.577595" lon="11.047589">
+		<name>22: Hirschlecke (um 1700)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Die viereckige Vertiefung im Sandstein diente als Salzlecke für das Rotwild, das früher im Reichswald vorkam.</cmt>
+	</wpt>
+	<wpt lat="49.578108" lon="11.036711">
+		<name>23: Libellenstein (1985)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Die an diesem Weiher vorkommende Libellenvielfalt diente den Studenten der FAU zu Studienzwecken.</cmt>
+	</wpt>
+	<wpt lat="49.580730" lon="11.040600">
+		<name>24: Boy-Scout-Stein (1984)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Granitstein wurde von der US Army in Gedenken an einen tödlich verunglückten Pfadfinder (Boy-Scout) gesetzt.</cmt>
+	</wpt>
+	<wpt lat="49.583622" lon="11.038110">
+		<name>25: Froschstein (1988)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dieser Stein am Rande eines kleinen Tümpels soll auf die zahlreichen Tümpel und Biotope im Reichswald hinweisen.</cmt>
+	</wpt>
+	<wpt lat="49.583720" lon="11.034740">
+		<name>26: Brunnenstein (1980)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Stein erinnert an die Trinkwassergewinnung in der Waldabteilung &quot;Brunnen&quot;. Die Tiefbrunnen dienten zur Wasserversorgung der amerikanischen Kasernen.</cmt>
+	</wpt>
+	<wpt lat="49.571622" lon="11.017555">
+		<name>27: Bannwaldgedenkstein (1980)</name>
+		<sym>Scenic Area</sym>
+		<cmt>1979 wurde der Sebalder Reichswald zum Bannwald deklariert. Dieser Wald muss in seiner Substanz geschützt und erhalten werden.</cmt>
+	</wpt>
+	<wpt lat="49.569202" lon="11.015105">
+		<name>28: Maulaufreißer Replik 2009 (0riginal 1547)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Replik einer Martersäule von 1547 für den Nürnberger Patriziersohn Christian Pfinzing und Sebastian Schedel, die von Söldnern des Kaisers Karl V. hier erschossen wurden - siehe auch Nr. 55.</cmt>
+	</wpt>
+	<wpt lat="49.558819" lon="11.024722">
+		<name>29: Gedenkstein Brucker Lache</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dieser Stein wurde 2014 anlässlich des 50-jährigen Bestehens des Naturschutzgebietes Brucker Lache errichtet.</cmt>
+	</wpt>
+	<wpt lat="49.567167" lon="11.043451">
+		<name>30: Weißer See Stein (1978)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Stein weist auf die Waldabteilung &quot;Weißensee&quot; hin.</cmt>
+	</wpt>
+	<wpt lat="49.570982" lon="11.067959">
+		<name>31: Rehbockstein 1981</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Rehbock ist der Namensgeber für die Waldabteilung &quot;Rehbock&quot;.</cmt>
+	</wpt>
+	<wpt lat="49.572038" lon="11.083064">
+		<name>32: Zigeunereck (1983)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Orientierungsstein, der nach der Waldabteilung &quot;Zigeunereck&quot; benannt wurde.</cmt>
+	</wpt>
+	<wpt lat="49.568068" lon="11.069037">
+		<name>33: Manfred-Wurm-Gedenkstein (1995)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Zur Erinnerung an Revierförster Wurm, der von 1973 bis 1985 das Forstrevier Buckenhof leitete.</cmt>
+	</wpt>
+	<wpt lat="49.567619" lon="11.070166">
+		<name>34: Rehbockweiher</name>
+		<sym>Scenic Area</sym>
+		<cmt>Ein gelungenes Beispiel für die Renaturierung einer Sandgrube.</cmt>
+	</wpt>
+	<wpt lat="49.565936" lon="11.072174">
+		<name>35: Hundestein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dieser Orientierungsstein ist den Hunden, den treuen Begleitern der Jäger, gewidmet.</cmt>
+	</wpt>
+	<wpt lat="49.562956" lon="11.072922">
+		<name>36: Steinbruch Ohrwaschel (1839-1912)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Aufgelassener Steinbruch, aus dem einst Baumaterial für die Umgebung gewonnen wurde. Zeitweise befand sich hier ein Wirtshaus, das ein beliebtes Ausflugsziel war.</cmt>
+	</wpt>
+	<wpt lat="49.565863" lon="11.084368">
+		<name>37: Teufelstisch</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Sand in diesem Bereich wurde vor ca. 200 Millionen Jahren abgelagert. Die Steinformation des Teufelssitzes trat erst durch den hier erfolgten Sandabbau zu Tage.</cmt>
+	</wpt>
+	<wpt lat="49.567808" lon="11.084885">
+		<name>38: Sechs Föhrenstein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dieser Stein erinnert an eine außergewöhnlich zusammengewachsene Föhren(=Kiefern)gruppe, die um 1940 aus Altersgründen gefällt werden musste.</cmt>
+	</wpt>
+	<wpt lat="49.561583" lon="11.086812">
+		<name>39: Wolfsstein (1978)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Sage nach soll hier der letzte Wolf im Reichswald erlegt worden sein. Das eingemeißelte Symbol zeigt eine &quot;Wolfsangel&quot;, ein früheres Jagdgerät zum Fang von Wölfen.</cmt>
+	</wpt>
+	<wpt lat="49.560882" lon="11.092493">
+		<name>40: Binsenfleck</name>
+		<sym>Scenic Area</sym>
+		<cmt>Die Benennung stammt von der gleichnamigen Waldabteilung.</cmt>
+	</wpt>
+	<wpt lat="49.562885" lon="11.095718">
+		<name>41: Saupass-Stein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Orientierungsstein steht an einem alten Fernwechsel der Wildschweine.</cmt>
+	</wpt>
+	<wpt lat="49.565597" lon="11.109188">
+		<name>42: Tropfender Fels</name>
+		<sym>Scenic Area</sym>
+		<cmt>Die beiden monolithischen Sandsteinfelsen befinden sich direkt an der Grenze zwischen Räth und Feuerletten an einem sogenannten Quellhorizont. Aus dem oberen, durchnässten Stein tropft Wasser in das gefasste Becken.</cmt>
+	</wpt>
+	<wpt lat="49.562108" lon="11.116107">
+		<name>43: Jungfernsitz</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Teufel war über eine Kirchenspende von Schlossfräulein Adelheid so erbost, dass er sie mit einem Felsblock erschlagen wollte. Da Adelheid jedoch die Hände zum Gebet gefaltet hatte, blieb sie unverletzt und lediglich ein Stück des Felsens brach heraus.</cmt>
+	</wpt>
+	<wpt lat="49.561244" lon="11.116095">
+		<name>44: Albrecht-Dürer-Quelle (auch &quot;Kehlbrünnlein&quot; genannt)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dürer soll hier 1502 zu seiner Federzeichnung &quot;Quelle im Wald mit Antonius und Paulus&quot; inspiriert worden sein.</cmt>
+	</wpt>
+	<wpt lat="49.558045" lon="11.096512">
+		<name>45: Dreieckstein (um 1840)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Reviersäule zwischen den ehem. Revieren Buckenhof, Dormitz und Tennenlohe (neu: seit 2013)</cmt>
+	</wpt>
+	<wpt lat="49.555324" lon="11.038901">
+		<name>46: Quellstein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Kunstwerk von Dieter Erhard</cmt>
+	</wpt>
+	<wpt lat="49.558591" lon="11.054602">
+		<name>47: Weißes Kreuz (15.-16. Jhd.)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Ursprüngliche Bedeutung ist nicht bekannt. Die Nische im Kopfteil enthielt sicherlich ein christliches Symbol. Der Name stammt vermutlich vom ehemalig weißen Anstrich. Der Steintrog &quot;Hirschlecke&quot; war eine Salzlecke für das Rotwild und stand an einem anderen Ort.</cmt>
+	</wpt>
+	<wpt lat="49.553890" lon="11.053394">
+		<name>48: Siebenerstein (16. Jhd.)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Das Kreuz aus Burgsandstein steht in der nach ihm benannten Waldabteilung &quot;Siebenstein&quot;. Inwieweit es sich um ein Sühnekreuz, eine Grenzmarkierung, oder ein Wetter- oder Votivkreuz handelt, ist nicht gesichert.</cmt>
+	</wpt>
+	<wpt lat="49.554578" lon="11.078692">
+		<name>49: Spinne (1977)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Hier befand sich der feste Treff- und Sammelpunkt für Feuerwehren und Förster bei Waldbränden.</cmt>
+	</wpt>
+	<wpt lat="49.551630" lon="11.107576">
+		<name>50: Försterquelle</name>
+		<sym>Scenic Area</sym>
+		<cmt>Diese Quelle wurde 1910 in Sandstein gefasst. 2007 wurde sie renoviert.</cmt>
+	</wpt>
+	<wpt lat="49.556177" lon="11.104482">
+		<name>50a: Dachsquelle</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dachsquelle derzeit nicht gefasst. Keine Beschilderung!</cmt>
+	</wpt>
+	<wpt lat="49.548675" lon="11.117303">
+		<name>51: Teufelsbadstube</name>
+		<sym>Scenic Area</sym>
+		<cmt>Urtümliche Schlucht durch den Räthsandstein (Oberer Keuper) zwischen Kalchreuth und der Wolfsfelder Wiese.</cmt>
+	</wpt>
+	<wpt lat="49.545681" lon="11.104534">
+		<name>52: Gedenkstein Wolfsfelden (um 1983)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der vermutlich im 12. Jhd. gegründete Weiler Wolfsfelden bestand bis 1900.</cmt>
+	</wpt>
+	<wpt lat="49.548716" lon="11.096974">
+		<name>53: Kracker Gedenkstein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Hier verunglückte 1972 der Waldfacharbeiter Friedrich Kracker bei Baumfällarbeiten tödlich.</cmt>
+	</wpt>
+	<wpt lat="49.544253" lon="11.076136">
+		<name>54: Rote Marter (1840)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Reviergrenzsäule für die königlich-bayerischen Forstreviere Dormitz, Tennenlohe, Neunhof. Die Bezeichnung &quot;rot&quot; stammt von der roten Farbe der früheren Holzgrenzsäule.</cmt>
+	</wpt>
+	<wpt lat="49.548859" lon="11.061926">
+		<name>55: Maulaufreißer Replik 2009 (0riginal 1547)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Replik einer Martersäule von 1547 für den Nürnberger Patriziersohn Christian Pfinzing und Sebastian Schedel, die von Söldnern des Kaisers Karl V. hier erschossen wurden - siehe auch Nr. 28.</cmt>
+	</wpt>
+	<wpt lat="49.544625" lon="11.056494">
+		<name>56: Franz-Köhl-Turm (ca. 1935)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Franz Köhl (*1886 in Neu-Ulm +1976 in Erlangen) war im 1. Weltkrieg Hauptmann in der deutschen Kolonie Südwestafrika. Der Turm diente der Beobachtung von Schießübungen der Wehrmacht.</cmt>
+	</wpt>
+	<wpt lat="49.550219" lon="11.044612">
+		<name>57: Hirschenstein (1979)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Stein erinnert an die zahlreichen Rothirsche, die von den Bayreuther Markgrafen über Jahrhunderte in hoher Zahl gehalten und gejagt wurden.</cmt>
+	</wpt>
+	<wpt lat="49.539250" lon="11.036380">
+		<name>58: Fuhrmannstein (15. Jhd.) urspr. &quot;Steinernes Kreuz&quot;</name>
+		<sym>Scenic Area</sym>
+		<cmt>Vermutlich das älteste Denkmal des Sebalder Reichswaldes. 1421 erstmals erwähnt. Überfälle und ein Mord sind dokumentiert. 1584 wurde der Fuhrmann &quot;Dicker Michel&quot; überfallen und beraubt.</cmt>
+	</wpt>
+	<wpt lat="49.540207" lon="11.044005">
+		<name>59: Häffner Denkmal (1899)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Überliefert ist, dass der Förster Häffner aus seinem Jagdwagen stieg und wegen eines Herzleidens tot zusammen brach.</cmt>
+	</wpt>
+	<wpt lat="49.532371" lon="11.094900">
+		<name>60: Eulenstein (1980)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Der Orientierungsstein von Hermann Weinberger erinnert an den erstmaligen Nachweis des Sperlingskauzes im Reichswald.</cmt>
+	</wpt>
+	<wpt lat="49.535833" lon="11.106510">
+		<name>61: Wolfsmarter</name>
+		<sym>Scenic Area</sym>
+		<cmt>Zerstörte und wieder neu errichtete Reviergrenzsäule für die ehemaligen königlich-bayerischen Reviere Dormitz, Neunhof, Kraftshof.</cmt>
+	</wpt>
+	<wpt lat="49.541120" lon="11.103070">
+		<name>62: Kesselstein (1988)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Ein Orientierungsstein in der Waldabteilung &quot;Kessel&quot;.</cmt>
+	</wpt>
+	<wpt lat="49.535746" lon="11.130509">
+		<name>63a: Hügelgrab 1 (Stettenberg)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Grabhügel der Urnenfelder- und Hallstattzeit</cmt>
+	</wpt>
+	<wpt lat="49.530939" lon="11.128522">
+		<name>63b: Hügelgrab 2</name>
+		<sym>Scenic Area</sym>
+		<cmt>Grabhügel der Frühlatènezeit.</cmt>
+	</wpt>
+	<wpt lat="49.530173" lon="11.131920">
+		<name>64: Grenzbuche</name>
+		<sym>Scenic Area</sym>
+		<cmt>Diese imposante Buche mit ihrer weit ausladenden Krone stellt einen markanten Wegpunkt dar.</cmt>
+	</wpt>
+	<wpt lat="49.519779" lon="11.147614">
+		<name>65: Steinkreuze Heroldsberg</name>
+		<sym>Scenic Area</sym>
+		<cmt>Die Steinkreuze gedenken an die Ermordung von Esaias von Vers und Sebastian Oefelein durch eine markgräfl. Truppe 1587.</cmt>
+	</wpt>
+	<wpt lat="49.516902" lon="11.094384">
+		<name>66: Frauenkreuz (15.-16. Jhd.)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Das Kreuz stand am Weg von Almoshof nach Kraftshof als &quot;Weißes Kreuz&quot;. Die jetzige Namensgebung stammt von 1813, als man zum Gedenken an eine hier erfroren aufgefundene Frau, ein Kreuz und diese Bezeichnung an einem Baum anbrachte.</cmt>
+	</wpt>
+	<wpt lat="49.519975" lon="11.089604">
+		<name>67: Rönigstein</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dieser Sandstein trägt den Namen des Waldortes &quot;Rönig&quot;.</cmt>
+	</wpt>
+	<wpt lat="49.521295" lon="11.089345">
+		<name>68: Ludwigseiche</name>
+		<sym>Scenic Area</sym>
+		<cmt>Dieses Naturdenkmal erinnert an den bayrischen König Ludwig.</cmt>
+	</wpt>
+	<wpt lat="49.517803" lon="11.067492">
+		<name>69: Studentenkreuz (1919)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Jüngstes Steinkreuz im Sebalder Wald. Hier wurde der ermordete Student und Bundesbruder der Uttenruthia Friedrich Zacharias Schmidt gefunden. Der Raubmord wurde nie aufgeklärt.</cmt>
+	</wpt>
+	<wpt lat="49.513686" lon="11.059865">
+		<name>70: Irrhain bei Kraftshof</name>
+		<sym>Scenic Area</sym>
+		<cmt>Begegnungsstätte der literarischen Gruppe &quot;Pegnesischer Blumenorden&quot; seit 1676. Der Wald weist hier den ursprünglichen Reichswaldbewuchs auf.</cmt>
+	</wpt>
+	<wpt lat="49.516182" lon="11.048347">
+		<name>71: Steinkreuze Neunhof</name>
+		<sym>Scenic Area</sym>
+		<cmt>Die Neunhofer Marter gilt als ein Sühnedenkmal von 1435. Der Name &quot;Die Dreißig Pfarrherrn&quot; stammt von deren angeblicher Ermordung hier im Bauernkrieg. (Beschilderung vom Frankenbund)</cmt>
+	</wpt>
+	<wpt lat="49.523209" lon="11.051697">
+		<name>72: Steinkreuz Kreuzäckerstraße (um 1500)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Eines der kunstgeschichtlich wertvollsten Steinkreuze im Nürnberger Land, mit erhabener Christusfigur und Armstützen.</cmt>
+	</wpt>
+	<wpt lat="49.532111" lon="11.033872">
+		<name>73: Voglerdenkmal (1880)</name>
+		<sym>Scenic Area</sym>
+		<cmt>In den Nischen steht folgender Text: &quot;Theodor Vogler, Kgl. Forstgehilfe, Kraftshof, in treuer Ausübung seines Dienstes meuchlings ermordet, am 24. Juni 1880, 2 Uhr morgens&quot;.</cmt>
+	</wpt>
+	<wpt lat="49.503400" lon="11.077950">
+		<name>74: Steinkreuz Harte Tränke (15.-16. Jhd.)</name>
+		<sym>Scenic Area</sym>
+		<cmt>Mehrere urkundliche Eintragungen mit Totschlagsünden werden mit diesem Sühnekreuz in Verbindung gebracht. Der frühere Aufstellungsort war nahe der &quot;Bucher Viehtränke&quot;.</cmt>
+	</wpt>
+</gpx>

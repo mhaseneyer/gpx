@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1">
+	<metadata>
+		<name>Liste der Windmühlen in Ostfriesland</name>
+		<desc>Liste von Windmühlen in Ostfriesland (Quelle: Wikipedia)</desc>
+		<author>
+			<name>Martin Haseneyer</name>
+		</author>
+		<link href="https://de.wikipedia.org/wiki/Liste_der_Windmühlen_in_Ostfriesland"><text>Datenquelle: Wikipedia</text></link>
+		<link href="https://github.com/mhaseneyer/gpx"><text>Diese Datei auf Github</text></link>
+		<time>2018-09-03T17:02:00Z</time>
+	</metadata>
+	<wpt lat="53.652743" lon="7.777792">
+		<name>Altfunnixsieler Mühle</name>
+		<sym>Building</sym>
+		<desc>Erdholländer, Altfunnixsiel (Gemeinde Wittmund)</desc>
+		<cmt>erbaut 1802
+
+		Heute Nutzung als Ferienwohnung</cmt>
+	</wpt>
+	<wpt lat="53.467987" lon="7.471497">
+		<name>Stiftsmühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Aurich</desc>
+		<cmt>erbaut 1858
+
+Mit einer Gesamthöhe von 29,95 m Höhe nach der Windmühle in Hage die zweithöchste Mühle Ostfrieslands. Beheimatet ein Mühlenmuseum.</cmt>
+	</wpt>
+	<wpt lat="53.466195" lon="7.497075">
+		<name>Außenmühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Aurich</desc>
+		<cmt>erbaut 1884
+
+Mühlentechnik ist vorhanden und funktionsfähig, wird aber heute durch einen Motor angetrieben. Die Flügel sind abgebaut.</cmt>
+	</wpt>
+	<wpt lat="53.342677" lon="7.607276">
+		<name>Bagbander Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Bagband (Gemeinde Großefehn)</desc>
+		<cmt>erbaut 1812
+
+Die Mühle ist noch voll funktionsfähig. In dem Gebäude kann übernachtet werden.</cmt>
+	</wpt>
+	<wpt lat="53.448647" lon="7.308655">
+		<name>Wasserschöpfmühle Agnes</name>
+		<sym>Building</sym>
+		<desc>Erdholländer, Fluttermühle, Bedekaspel (Gemeinde Südbrookmerland)</desc>
+		<cmt>erbaut 1920
+
+1986 wieder aufgebaut. Dient heute der Bewässerung eines Biotops.</cmt>
+	</wpt>
+	<wpt lat="53.62855" lon="7.81782">
+		<name>Krullsche Mühle</name>
+		<sym>Building</sym>
+		<desc>Erdholländer, Berdum (Gemeinde Wittmund)</desc>
+		<cmt>erbaut 1782 (1820?) 
+
+1972 stillgelegt. Ab 1989 arbeitete der Mühlenverein an der Wiederinbetriebnahme, dieser übernahm 1991 dann die Mühle.</cmt>
+	</wpt>
+	<wpt lat="53.562607" lon="7.338578">
+		<name>Rote Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Berumerfehn (Gemeinde Großheide)</desc>
+		<cmt>erbaut 1937
+
+stand ursprünglich in Carolinensiel, wurde 1937 an jetzigen Standort gebracht. Seit 1983 wird die Anlage von einem Mühlenverein betrieben.</cmt>
+	</wpt>
+	<wpt lat="53.181694" lon="7.277469">
+		<name>Bunder Mühle (Huisinger Mühle)</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Bunde</desc>
+		<cmt>erbaut 1869
+
+brannte im Mai 1911 ab, als viergeschossiger Galerieholländer wieder aufgebaut. 1960 von Wind- auf Motorbetrieb umgestellt, restauriert zwischen 1997 und 1999.</cmt>
+	</wpt>
+	<wpt lat="53.052058" lon="7.553862">
+		<name>Mühle Burlage</name>
+		<sym>Building</sym>
+		<desc>Wallholländer, Burlage (Gemeinde Rhauderfehn)</desc>
+		<cmt>erbaut 1824
+
+bis in das Jahr 1978 betrieben. Flügel noch vorhanden, Mahlwerk wurde demontiert. Die Anlage beherbergt ein Naturkundemuseum.</cmt>
+	</wpt>
+	<wpt lat="53.618331" lon="7.728002">
+		<name>Buttforder Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Buttforde (Gemeinde Wittmund)</desc>
+		<cmt>erbaut 1815
+
+Bis 1955 mit Windkraft betrieben.</cmt>
+	</wpt>
+	<wpt lat="53.692439" lon="7.793714">
+		<name>Deichmühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Carolinensiel (Gemeinde Wittmund)</desc>
+		<cmt>erbaut 1742
+
+zweistöckige Mühle wurde auf Deich errichtet, daher der Name, schon früh Funktion einer Landmarke. Nun als Ferienwohnung genutzt.</cmt>
+	</wpt>
+	<wpt lat="53.264927" lon="7.385672">
+		<name>Ditzumer Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Ditzum (Gemeinde Jemgum)</desc>
+		<cmt>erbaut 1883
+
+1943 abgebrannt und wieder aufgebaut als Motormühle, 1945 bei Kampfhandlungen ausgebrannt, Betrieb bis 1986</cmt>
+	</wpt>
+	<wpt lat="53.274282" lon="7.267016">
+		<name>Wasserschöpfmühle Wynhamsterkolk</name>
+		<sym>Building</sym>
+		<desc>Erdholländer, Ditzumerverlaat (Gemeinde Bunde)</desc>
+		<cmt>erbaut 1804
+
+Als Entwässerungsmühle gebaut, seit 1890 in Privatbesitz, die Entwässerung mit Windkraft wurde Ende 1950er Jahre beendet</cmt>
+	</wpt>
+	<wpt lat="53.646368" lon="7.433206">
+		<name>Bockwindmühle Dornum</name>
+		<sym>Building</sym>
+		<desc>Bockwindmühle, Dornum</desc>
+		<cmt>erbaut 1626
+
+Letzte erhaltene Bockwindmühle in Ostfriesland. Älteste Mühle überhaupt in der Region Ostfriesland.</cmt>
+	</wpt>
+	<wpt lat="53.367628" lon="7.21702">
+		<name>De Roede Molen</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Emden</desc>
+		<cmt>erbaut 1572-1823
+
+Rote Mühle 1573 auf dem „Valdern Wall“ errichtet (SpäterRote Mühlen Zwinger). zwischen 1795 und 1810 als Galerieholländer neu aufgebaut. Am 16. August 1916 abgebrannt, trotz mehrerer Versuche nicht wieder aufgebaut. Das Gebäude beherbergt heute einen Kindergarten.</cmt>
+	</wpt>
+	<wpt lat="53.37232" lon="7.213303">
+		<name>De Vrouw Johanna</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Emden</desc>
+		<cmt>erbaut 1804
+
+1956 stillgelegt, von 1996-2000 vom Emder Mühlenverein restauriert. voll fkt.fähig, eine der wenigen, die noch über die Flügelräder mahlen kann.</cmt>
+	</wpt>
+	<wpt lat="53.365061" lon="7.216183">
+		<name>Weizenmühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Emden</desc>
+		<cmt>erbaut 1810
+
+1952 wurden die Flügel abmontiert und die Mühle auf Motorkraft umgebaut</cmt>
+	</wpt>
+	<wpt lat="53.377586" lon="7.221247">
+		<name>Mühle Zeldenrüst</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Emden</desc>
+		<cmt>erbaut 1807
+
+gebaut als Sägemühle, wurde dann aber zu Getreidemühle umgebaut. Die Flügel wurden 1952 abgenommen.</cmt>
+	</wpt>
+	<wpt lat="53.649888" lon="7.612297">
+		<name>Peldemühle Esens</name>
+		<sym>Building</sym>
+		<desc>Peldemühle, Esens</desc>
+		<cmt>erbaut 1850
+
+August 1945 brach ein Flügelpaar ab, das andere wurde daraufhin ebenfalls abgebaut und die Mühle auf Motorkraft umgestellt. Betrieb wurde 1952 eingestellt. 1986 wurde die Mühle von der Stadt Esens gekauft und zum Heimatmuseum umgebaut.</cmt>
+	</wpt>
+	<wpt lat="53.430647" lon="7.588597">
+		<name>Felder Mühle</name>
+		<sym>Building</sym>
+		<desc>Peldemühle, Felde (Gemeinde Großefehn)</desc>
+		<cmt>erbaut 1866
+
+Im Jahr 1969 stillgelegt. 1978 und 1996 grundlegend renoviert.</cmt>
+	</wpt>
+	<wpt lat="53.63447" lon="7.52222">
+		<name>Johanni-Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Fulkum (Gemeinde Esens)</desc>
+		<cmt>erbaut 1865 (1869?) 
+
+Bereits 1909 wurde die Mühle renoviert. Im Jahr 1929 bekam die Anlage einen Elektromotor, als der Betrieb 1954 eingestellt wurde waren es bereits fünf Motoren. Am 21. August 2000 brannte die Mühle wegen eines technischen Defekts bis auf die Grundmauern ab.</cmt>
+	</wpt>
+	<wpt lat="53.497262" lon="7.100869">
+		<name>Greetsieler Zwillingsmühlen (Ost)</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Greetsiel (Ost) (Gemeinde Krummhörn)</desc>
+		<cmt>erbaut 1706
+
+Greetsieler Zwillingsmühlen, Wahrzeichen des Ortes Greetsiel.</cmt>
+	</wpt>
+	<wpt lat="53.497964" lon="7.099314">
+		<name>Greetsieler Zwillingsmühlen (West)</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Greetsiel (West) (Gemeinde Krummhörn)</desc>
+		<cmt>erbaut 1856
+
+Greetsieler Zwillingsmühlen, Wahrzeichen des Ortes Greetsiel.</cmt>
+	</wpt>
+	<wpt lat="53.32508" lon="7.738565">
+		<name>Windmühle Großoldendorf</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Großoldendorf (Gemeinde Uplengen)</desc>
+		<cmt>erbaut 1887
+
+noch bis 1962 mit Wind betrieben und dann auf Motorkraft umgestellt. Im Jahr 1977 wurde der Betrieb eingestellt.</cmt>
+	</wpt>
+	<wpt lat="53.60366" lon="7.290931">
+		<name>Hager Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Hage</desc>
+		<cmt>erbaut 1872/73 
+
+Nach Brand 1880 um ein Stockwerk erweitert. Mit 30,2 m höchste Windmühle Deutschlands</cmt>
+	</wpt>
+	<wpt lat="53.459477" lon="7.455044">
+		<name>Haxtumer Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Haxtum (Gemeinde Aurich)</desc>
+		<cmt>erbaut 1885
+
+Die Mühlentechnik ist vorhanden und funktionsfähig, wobei nur noch die Hammermühle in Betrieb ist.</cmt>
+	</wpt>
+	<wpt lat="53.413273" lon="7.194999">
+		<name>Mühle Hinte</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Hinte</desc>
+		<cmt>erbaut 1869
+
+wurde ursprünglich 1958 bis auf das Mauerwerk abgerissen. Seit 1993 wird wieder aufgebaut, 1995 erhielt die Anlage wieder eine Galerie.</cmt>
+	</wpt>
+	<wpt lat="53.281127" lon="7.580223">
+		<name>Holtlander Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Holtland</desc>
+		<cmt>erbaut 1864
+
+Die Anlage war bis 1992 in Privatbesitz. 1992 schenkte die Familie die Anlage funktionstüchtig der Gemeinde.</cmt>
+	</wpt>
+	<wpt lat="53.450711" lon="7.941152">
+		<name>Mühle Erks</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Horsten (Gemeinde Friedeburg)</desc>
+		<cmt>erbaut 1839
+
+Die Anlage wurde im Laufe der Zeit mehrfach umgebaut und ist seit 1988 wieder voll funktionsfähig.</cmt>
+	</wpt>
+	<wpt lat="53.139312" lon="7.63748">
+		<name>Berta-Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Idafehn (Gemeinde Ostrhauderfehn)</desc>
+		<cmt>erbaut 1891
+
+am 25. April 1945 durch Kriegshandlungen beschädigt. Am 13. November 1972 brannte sie während eines Orkans ab, Der Mühlenstumpf wurde 1999 von der Gemeinde gekauft und restauriert. Der Anbau, das sog. Packhaus, wird für Versammlungen und Ausstellungen benutzt.</cmt>
+	</wpt>
+	<wpt lat="53.391599" lon="7.441601">
+		<name>Berta-Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Ihlowerfehn (Gemeinde Ihlow)</desc>
+		<cmt>erbaut 1870
+
+Der Vorgängerbau war 1794 eine Roßmühle aus dem Landschaftspolder. 1870 wurde die jetzige Mühle errichtet. Seit den 1980er Jahren wurde die Mühle von der Gemeinde wieder restauriert.</cmt>
+	</wpt>
+	<wpt lat="53.265" lon="7.3825">
+		<name>Jemgumer Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Jemgum</desc>
+		<cmt>erbaut 1756
+
+Als Getreidemühle gebaut und ist noch vollständig erhalten</cmt>
+	</wpt>
+	<wpt lat="53.36715" lon="7.14841">
+		<name>Larrelter Mühle (Kost Winning)</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Larrelt (Gemeinde Emden)</desc>
+		<cmt>erbaut 1732
+
+Bis 1948 wurde mit Wind gemahlen, der Mühlenbetrieb musste 1974 eingestellt werden. 1992 voll restauriert. Die Mühle wird heute noch an bestimmten Tagen regelmäßig betrieben, ist voll funktionsfähig und erhalten. Die Mühle kann für Festivitäten gemietet werden.</cmt>
+	</wpt>
+	<wpt lat="53.549079" lon="7.292052">
+		<name>Bartlingsche Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Leezdorf</desc>
+		<cmt>erbaut 1896
+
+Die jetzige Anlage wurde als Nachfolger einer Kokerwindmühle hier errichtet. Die Anlage verfügt noch über einen Steert und Segelflügel. Der Mahlvorgang kann sowohl mit Windkraft, einem Dieselmotor oder einem Elektromotor demonstriert werden.</cmt>
+	</wpt>
+	<wpt lat="53.24755" lon="7.515635">
+		<name>Eiklenborgsche Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Logabirum (Gemeinde Leer)</desc>
+		<cmt>erbaut 1895
+
+als Sägemühle gebaut, 1935 der Steert durch eine Windrose ersetzt, 1938 auf Motorbetrieb umgestellt. außer Betrieb aber voll funktionsfähig</cmt>
+	</wpt>
+	<wpt lat="53.519221" lon="7.276179">
+		<name>Friesenborgsche Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Marienhafe</desc>
+		<cmt>erbaut 1776
+
+1821 um ein drittes Stockwerk erweitert.</cmt>
+	</wpt>
+	<wpt lat="53.14151" lon="7.376724">
+		<name>Mitling-Marker Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Mitling-Mark (Gemeinde Westoverledingen)</desc>
+		<cmt>erbaut 1843
+
+Ursprünglich stand hier seit alters her eine Bockwindmühle. 1843 wurde die derzeitige Anlage errichtet. 1928 wurde ein Dieselmotor eingebaut und 1945 ein Elektromotor. 1984 kaufte die Gemeinde die Anlage. Seit 1990 kann die Mühle wieder besichtigt werden.</cmt>
+	</wpt>
+	<wpt lat="53.515486" lon="7.372631">
+		<name>Mühle Münkeboe (Fleetjers Mühle)</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Münkeboe (Gemeinde Südbrookmerland)</desc>
+		<cmt>erbaut 1854
+
+Zwischen 1980 und 1987 saniert.</cmt>
+	</wpt>
+	<wpt lat="53.306056" lon="7.438586">
+		<name>Mühle Neermoor</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Neermoor (Gemeinde Moormerland)</desc>
+		<cmt>erbaut 1884
+
+Flügel und Kappe wurden 1964 abgenommen, 1989 wurde der Mühlenbetrieb stillgelegt. Seit 2000 umfassende Sanierung.</cmt>
+	</wpt>
+	<wpt lat="53.588229" lon="7.446858">
+		<name>Nenndorfer Windmühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Nenndorf</desc>
+		<cmt>erbaut 1850
+
+Die ursprüngliche Mühle wurde 1872 bei einem Sturm schwer beschädigt und beim Wiederaufbau um ein Stockwerk erhöht. Sie war bis 1991 in Familienbesitz, als die Gemeinde die Anlage übernahm.</cmt>
+	</wpt>
+	<wpt lat="53.652093" lon="7.371754">
+		<name>Nessmer Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Nesse (Gemeinde Dornum)</desc>
+		<cmt>erbaut 1856/57 
+
+Die Anlage wurde bis 1960 betrieben und sollte 1965 abgerissen werden. Aus unbekannter Gründen kam es nie zum Abriss. Das Innenleben wurde aber demontiert.</cmt>
+	</wpt>
+	<wpt lat="53.589881" lon="7.214327">
+		<name>Deichmühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Norden</desc>
+		<cmt>erbaut 1900
+
+Mit 28,5 m die dritt-höchste Mühle in Ostfriesland. Die erste Mühle an dieser Stelle war ein Bockwindmühle aus dem Jahr 1588. Die Mühle ist in Privatbesitz, voll funktionsfähig und wird als Museum genutzt.</cmt>
+	</wpt>
+	<wpt lat="53.590857" lon="7.215086">
+		<name>Gnurre-Mühle Frisia</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Norden</desc>
+		<cmt>erbaut 1864
+
+An dieser Stelle wurde bereits im Jahr 1700 eine Mühle errichtet. Diese und nachfolgende fielen Bränden zum Opfer. 1930 wurde die Anlage bis auf das Achteck abgerissen. 1986 begann der Mühlenverein mit dem Wiederaufbau.</cmt>
+	</wpt>
+	<wpt lat="53.591804" lon="7.193298">
+		<name>Westgaster Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Norden</desc>
+		<cmt>erbaut 1863
+
+noch bis 1975 mit Wind betrieben, aber dann auf Motorkraft umgestellt. Der Betrieb wurde 1985 eingestellt, und ist an den Mühlenverein verpachtet. Die Anlage ist voll funktionsfähig und wird gelegentlich auch noch genutzt.</cmt>
+	</wpt>
+	<wpt lat="53.706148" lon="7.156388">
+		<name>Inselmühle Norderney</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Norderney</desc>
+		<cmt>erbaut 1862
+
+Einzige Inselwindmühle in Niedersachsen. Station der Niedersächsischen Mühlenstraße. 1951 abgebrannt, seit 1971 Gastronomiebetrieb.</cmt>
+	</wpt>
+	<wpt lat="53.402439" lon="7.603907">
+		<name>Mühle Ostgroßefehn</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Ostgroßefehn (Gemeinde Großefehn)</desc>
+		<cmt>erbaut 1804
+
+Die Anlage hat drei Mahlwerke die hauptsächlich zur Verarbeitung von Buchweizen gebaut wurden. Um 1900 wurde Versuchsweise eine Anlage zur Stromerzeugung eingebaut. Der Betrieb der Mühle wurde 1968 eingestellt, sie ist aber weiter voll funktionsfähig.</cmt>
+	</wpt>
+	<wpt lat="53.435019" lon="7.089438">
+		<name>Windmühle Pewsum</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Pewsum (Gemeinde Krummhörn)</desc>
+		<cmt>erbaut 1854
+
+vormals Eicklenborgsche Mühle. Zwischen 1980 und 1987 saniert.</cmt>
+	</wpt>
+	<wpt lat="53.30775" lon="7.753167">
+		<name>Windmühle Remels</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Remels (Gemeinde Uplengen)</desc>
+		<cmt>erbaut 1803
+
+Das Getreide für die Anlage wurde auf dem Nordgeorgsfehnkanal herangeschafft. Bis zu ihrer Stilllegung 1962 wurde die Anlage mit Wind betrieben. Seit 1963 ist sie in Besitz der Gemeinde und wird als technisches Denkmal erhalten.</cmt>
+	</wpt>
+	<wpt lat="53.163843" lon="7.568928">
+		<name>Rhauder Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Rhaude (Gemeinde Rhauderfehn)</desc>
+		<cmt>erbaut 1852
+
+1958 abgebaut. In den Jahren 1991 bis 1998 wiedererrichtet.</cmt>
+	</wpt>
+	<wpt lat="53.111406" lon="7.566426">
+		<name>Mühle Hahnentange</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Rhauderfehn</desc>
+		<cmt>erbaut 1865
+
+Die ursprüngliche Mühle brannte 1885 ab und wurde dann zweistöckig wieder aufgebaut. Der Betrieb wurde 1968 eingestellt. Seit 1992 gehört der Gemeinde Rhauderfehn die Anlage. Sie ist jetzt restauriert und voll funktionsfähig-</cmt>
+	</wpt>
+	<wpt lat="53.523407" lon="7.326446">
+		<name>Rechtsupweger Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Rechtsupweg (Gemeinde Samtgemeinde Brookmerland)</desc>
+		<cmt>erbaut 1926
+
+Windbetrieb 1960 eingestellt. Anschließend wurde die Kappe samt Flügel abgenommen. Bis 1974 wurde die Mühle dann noch mit einem Elektromotor weiter betrieben. Der Mühlenstumpf steht in einem Garten und ist hinter den angrenzenden Hecken kaum auszumachen. Er ist weiß getüncht und wird wahrscheinlich von privat als Abstellraum genutzt. Stand: 29. Juni 2013</cmt>
+	</wpt>
+	<wpt lat="53.39443" lon="7.31561">
+		<name>Fluttermühle Riepe</name>
+		<sym>Building</sym>
+		<desc>Fluttermühle, Riepe (Gemeinde Ihlow)</desc>
+		<cmt>erbaut 1986
+
+Die Mühle ist transportabel. Als Entwässerungsmühle hat sie die Aufgabe, mithilfe einer archimedischen Schraube Wasser aus niedriggelegenen Abzugsgräben in höher gelegene zu schaffen.</cmt>
+	</wpt>
+	<wpt lat="53.378873" lon="7.358276">
+		<name>Kokermühle Riepe</name>
+		<sym>Building</sym>
+		<desc>Kokermühle, Riepe Leegmoor (Gemeinde Ihlow)</desc>
+		<cmt>erbaut 18. Jh.
+
+Im Jahr 1984 wurde die Wasserschöpfmühle grundlegend restauriert und ist seither wieder voll funktionsfähig.</cmt>
+	</wpt>
+	<wpt lat="53.387777" lon="7.345321">
+		<name>Mühle Boerma</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Riepe (Gemeinde Ihlow)</desc>
+		<cmt>erbaut 1771 (1899) 
+
+als Wasserschöpfmühle am Türkmeer in Betrieb genommen, 1813 wurde sie zu einer Korn- und Peldemühle umgebaut. 1899 wurde sie an ihren jetzigen Standort verlegt. Die Anlage wird als Landhandel genutzt.</cmt>
+	</wpt>
+	<wpt lat="53.38964" lon="7.288725">
+		<name>Wrantepotter Dreschmühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Riepster Hammrich (Gemeinde Ihlow)</desc>
+		<cmt>erbaut um 1670 
+
+"De Kaat". Mit einer Höhe von 13,80 m und einer Flügelspannweite von 9,40 m eine der kleinsten Mühlen Deutschlands. Wiederaufbau 1992</cmt>
+	</wpt>
+	<wpt lat="53.378759" lon="7.034163">
+		<name>Rysumer Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Rysum (Gemeinde Krummhörn)</desc>
+		<cmt>erbaut 1895
+
+1964 wurde die Mühle stillgelegt. In den Jahren 1989 bis 1995 erfolgte der Wiederaufbau.</cmt>
+	</wpt>
+	<wpt lat="53.503459" lon="7.513452">
+		<name>Sandhorster Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Sandhorst (Gemeinde Aurich)</desc>
+		<cmt>erbaut 1908
+
+Die Mühlentechnik ist vorhanden und funktionsfähig. Von 1988 bis 1991 umfassend saniert.</cmt>
+	</wpt>
+	<wpt lat="53.597564" lon="7.471422">
+		<name>Klaashensche Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Schweindorf</desc>
+		<cmt>erbaut 1907
+
+Vorgängerbau im Jahr 1906 abgebrannt. Flügel, Kappe und Galerie 1961 demontiert. Wiederaufbau im Jahr 1998 mit dem Aufsetzen der neuen Mühlenkappe und dem Anbau des Steerts abgeschlossen.</cmt>
+	</wpt>
+	<wpt lat="53.685211" lon="7.696068">
+		<name>De Goede Verwagting</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Seriem (Gemeinde Neuharlingersiel)</desc>
+		<cmt>erbaut 1804
+
+bis 1975 gewerblich genutzt.</cmt>
+	</wpt>
+	<wpt lat="53.369952" lon="7.41214">
+		<name>Windmühle Simonswolde, Sandwatermühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Simonswolde (Gemeinde Ihlow)</desc>
+		<cmt>erbaut 1813
+
+Bis etwa 1948 mit Windkraft betrieben. Heute Nutzung als Wohnhaus.</cmt>
+	</wpt>
+	<wpt lat="53.514023" lon="7.18795">
+		<name>Schoonorther Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Schoonorth (Gemeinde Krummhörn)</desc>
+		<cmt>erbaut 1804
+
+1951 bei einem schweren Sturm stark beschädigt. Anschließend wurden Flügel und das Oberteil abgebaut. Im Jahr 1975 wurde der Unterbau zu einem Wohnhaus umgebaut. Heute Nutzung als Ferienwohnung.</cmt>
+	</wpt>
+	<wpt lat="53.382112" lon="7.610832">
+		<name>Mühle Steenblock</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Spetzerfehn (Gemeinde Großefehn)</desc>
+		<cmt>erbaut 1886
+
+Vorgängerbau von 1818 nach einem Blitzschlag im Jahr 1884 abgebrannt. Einzige Mühle Ostfrieslands, die noch heute gewerbsmäßig mit Windkraft betrieben wird.</cmt>
+	</wpt>
+	<wpt lat="53.137709" lon="7.319394">
+		<name>Windmühle Stapelmoor</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Stapelmoor (Gemeinde Weener)</desc>
+		<cmt>erbaut 1909
+
+Mühle Wichers. Der Vorgängerbau von 1818 wurde 1909 abgebrochen.</cmt>
+	</wpt>
+	<wpt lat="53.565305" lon="7.385226">
+		<name>Mühle Südcoldinne (Tjadens Mühle)</name>
+		<sym>Building</sym>
+		<desc>Erdholländer, Südcoldinne (Gemeinde Großheide)</desc>
+		<cmt>erbaut 1922
+
+1901 als Wasserschöpfmühle in Nordgeorgsfehn an Schleuse 3 des Nordgeorgsfehnkanals erbaut, 1922 an den heutigen Standort transportiert.</cmt>
+	</wpt>
+	<wpt lat="53.244959" lon="7.732787">
+		<name>Mühle Südgeorgsfehn</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Südgeorgsfehn (Gemeinde Uplengen)</desc>
+		<cmt>erbaut 1907
+
+Bis etwa 1966 mit Windkraft betrieben, danach nur mit Motorbetrieb. 1989/90 Stilllegung. 1998 umfassend restauriert.</cmt>
+	</wpt>
+	<wpt lat="53.51422" lon="7.470987">
+		<name>Meints Mühle</name>
+		<sym>Building</sym>
+		<desc>Erdholländer, Tannenhausen (Gemeinde Aurich)</desc>
+		<cmt>erbaut 1867
+
+1867 in Endzetel (Buttforde) gebaut. Im Jahr 1923 vom Müllermeister Meints gekauft und nach Tannenhausen gebracht.</cmt>
+	</wpt>
+	<wpt lat="53.527503" lon="7.271882">
+		<name>Tjücher Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Tjüche (Gemeinde Marienhafe)</desc>
+		<cmt>erbaut 1886
+
+Bis 1958 mit Windkraft betrieben, danach auf Motorantrieb umgestellt. Restaurierung im Jahr 1986 abgeschlossen.</cmt>
+	</wpt>
+	<wpt lat="53.515387" lon="7.271345">
+		<name>Sterrenbergsche Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Upgant-Schott</desc>
+		<cmt>erbaut 1880
+
+Ein Vorgängerbau aus dem Jahr 1569 wurde 1880 abgerissen.</cmt>
+	</wpt>
+	<wpt lat="53.61022" lon="7.48003">
+		<name>Utarper Mühle</name>
+		<sym>Building</sym>
+		<desc>Erdholländer, Utarp (Gemeinde Holtriem)</desc>
+		<cmt>erbaut 1909
+
+1909 fertiggestellt und bis 1960 als Windmühle in Betrieb. Bauwerk als Ruine erhalten.</cmt>
+	</wpt>
+	<wpt lat="53.453765" lon="7.159653">
+		<name>Alte Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Uttum (Gemeinde Krummhörn)</desc>
+		<cmt>erbaut 1856
+
+Bis etwa 1957 ausschließlich mit Windkraft betrieben, mit dem Elektromotor als Sekundärantrieb bis 1975.</cmt>
+	</wpt>
+	<wpt lat="53.103336" lon="7.416058">
+		<name>Wasserschöpfmühle</name>
+		<sym>Building</sym>
+		<desc>Wallholländer, Völlenerfehn (Gemeinde Westoverledingen)</desc>
+		<cmt>erbaut 1813
+
+Das Oberteil der Mühle wurde im Dezember 2009 abgebaut, komplett demontiert und in Ahausen, einem Stadtteil von Bersenbrück neu errichtet. Der untere Teil der Mühle wurde 2010/11 abgerissen.</cmt>
+	</wpt>
+	<wpt lat="53.327589" lon="7.474777">
+		<name>Windmühle Warsingsfehn, Mühle Bohlen</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Warsingsfehn (Gemeinde Moormerland)</desc>
+		<cmt>erbaut 1811/12 
+
+Flügelwerk 1967 demontiert. Anschließend weiterbetrieb mit Elektromotor. Die Mühlenkappe wurde 1994 neu aufgesetzt, 1996 wieder eine Galerie angebaut.</cmt>
+	</wpt>
+	<wpt lat="53.660338" lon="7.719381">
+		<name>Werdumer Mühle</name>
+		<sym>Building</sym>
+		<desc>Erdholländer, Werdum (Gemeinde Esens)</desc>
+		<cmt>erbaut 1748
+
+Der Windbetrieb wurde 1960 und der gesamte Mühlenbetrieb 1971 eingestellt.</cmt>
+	</wpt>
+	<wpt lat="53.648578" lon="7.441381">
+		<name>Windmühle Westeraccum</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Westeraccum (Gemeinde Dornum)</desc>
+		<cmt>erbaut 1723
+
+Um 1900 brannte das Gebäude vollständig ab und wurde erneuert. Noch bis 1983 wurden hier die Graupen hergestellt. Galerie und Achtkant wurden 2000, die Flügel im Jahr 2002 neu montiert.</cmt>
+	</wpt>
+	<wpt lat="53.661755" lon="7.494993">
+		<name>Sielmühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Westerbur (Gemeinde Dornumersiel)</desc>
+		<cmt>erbaut 1872
+
+Die Anlage hat als einzige einen sechseckigen Grundriss und diente schon früh als Seezeichen.</cmt>
+	</wpt>
+	<wpt lat="53.342651" lon="7.607276">
+		<name>Mühle Onken</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Westgroßefehn (Gemeinde Großefehn)</desc>
+		<cmt>erbaut 1773
+
+Bis 1967 mit Wind betrieben. In den Jahren 1990 bis 1993 grundlegende Renovierung.</cmt>
+	</wpt>
+	<wpt lat="53.456202" lon="7.345449">
+		<name>Mühle Wiegboldsbur</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Wiegboldsbur (Gemeinde Südbrookmerland)</desc>
+		<cmt>erbaut 1812
+
+1851 um ein Stockwerk erhöht.</cmt>
+	</wpt>
+	<wpt lat="53.481511" lon="7.215078">
+		<name>Wasserpumpmühle Wirdum</name>
+		<sym>Building</sym>
+		<desc>Doppelkolben­Wasserpumpmühle, Wirdum</desc>
+		<cmt>erbaut 1872
+
+Einzig bekannte funktionsfähige Mühle dieser Art in Deutschland.</cmt>
+	</wpt>
+	<wpt lat="53.582078" lon="7.774622">
+		<name>Peldemühle (Wittmund)</name>
+		<sym>Building</sym>
+		<desc>Peldemühle, Wittmund</desc>
+		<cmt>erbaut 1741
+
+1741 als Galerieholländer erbaut und damit wohl älteste Mühle ihrer Art in Norddeutschland. eigentliche Mühlenbetrieb 1974 eingestellt. Ab 1986 umfassende Restaurierung, seit 1991 ist sie wieder betriebsfähig. Eigentümerin der Mühle ist die Johann und Helene Ihnen Stiftung.</cmt>
+	</wpt>
+	<wpt lat="53.575002" lon="7.777923">
+		<name>Siuts-Mühle</name>
+		<sym>Building</sym>
+		<desc>Galerieholländer, Wittmund</desc>
+		<cmt>erbaut 1884
+
+erste Erwähnung einer Mühle an dieser Stelle 1648 und betraf eine Bockwindmühle. Diese wurde 1884 ein Raub der Flammen. Die jetzige Anlage stand ursprünglich in Norden und wurde nach dem Brand hier aufgebaut.</cmt>
+	</wpt>
+</gpx>
