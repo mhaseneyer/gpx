@@ -11,7 +11,7 @@ ist die Auswahl der Datenquellen für andere vielleicht ungewöhnlich.
 
 - [Bayern-Entdecker][dateiBayernEntdecker]:
   Stempel-Stationen des „Bayern-Entdecker“-Wettbewerbs. Auch ohne
-  Wettbewerb schön zu stempeln.
+  Wettbewerb schön zu stempeln. Quelle: [Umweltministerium Bayern][quelleBayernEntdecker]
 - [Flur- und Naturdenkmale im Sebalder Reichswald][dateiFlurdenkmaleReichswald]:
   Im Wald südöstlich von Erlangen befinden sich über 50 Gedenksteine,
   Denkmale usw.; Quelle: [Heimat- und Geschichtsverein Erlangen][quelleHeimatGeschichtsvereinErlangen]
