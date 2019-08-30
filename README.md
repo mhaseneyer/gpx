@@ -7,7 +7,7 @@ Die Dateien sind aus persönlichem Interesse entstanden und sollen mich
 bei Radtouren, Wanderungen oder Ausflügen mit Zielen versorgen, daher
 ist die Auswahl der Datenquellen für andere vielleicht ungewöhnlich.
 
-Kontaktmöglichkeiten finden Sie unter [martin.haseneyer.de][kontaktMH]
+Kontaktmöglichkeiten finden Sie unter [martin.haseneyer.de][kontaktMH].
 
 
 ## Die Dateien
