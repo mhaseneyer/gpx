@@ -7,6 +7,9 @@ Die Dateien sind aus persönlichem Interesse entstanden und sollen mich
 bei Radtouren, Wanderungen oder Ausflügen mit Zielen versorgen, daher
 ist die Auswahl der Datenquellen für andere vielleicht ungewöhnlich.
 
+Kontaktmöglichkeiten finden Sie unter [martin.haseneyer.de][kontaktMH]
+
+
 ## Die Dateien
 
 - [Bayern-Entdecker][dateiBayernEntdecker]:
@@ -51,3 +54,4 @@ Auf einem [Garmin][anwendungGarmin]-Gerät gibt es auf der SD-Karte einen Ordner
 [quelleHeimatGeschichtsvereinErlangen]: https://hugv.de/app/fd/
 [quelleWikipediaMühlenNiedersachsen]: https://de.wikipedia.org/wiki/Niedersächsische_Mühlenstraße
 [quelleWikipediaWindmühlenOstfriesland]: https://de.wikipedia.org/wiki/Liste_der_Windmühlen_in_Ostfriesland
+[kontaktMH]: https://martin.haseneyer.de/
