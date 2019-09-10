@@ -46,10 +46,10 @@ Auf einem [Garmin][anwendungGarmin]-Gerät gibt es auf der SD-Karte einen Ordner
 
 [anwendungOsmAnd]: https://osmand.net "OsmAnd Offline-Navigation unter Android"
 [anwendungGarmin]: https://www.garmin.com/de-DE/ "Garmin"
-[dateiBayernEntdecker]: Bayern-Entdecker.gpx
-[dateiFlurdenkmaleReichswald]: Flurdenkmale%20Sebalder%20Reichswald.gpx
-[dateiMuehlenNiedersachsen]: Niedersächsische%20Mühlenstraße.gpx
-[dateiWindmühlenOstfriesland]: Windmühlen%20in%20Ostfriesland.gpx
+[dateiBayernEntdecker]: gpx/Bayern-Entdecker.gpx
+[dateiFlurdenkmaleReichswald]: gpx/Flurdenkmale%20Sebalder%20Reichswald.gpx
+[dateiMuehlenNiedersachsen]: gpx/Niedersächsische%20Mühlenstraße.gpx
+[dateiWindmühlenOstfriesland]: gpx/Windmühlen%20in%20Ostfriesland.gpx
 [quelleBayernEntdecker]: https://www.stmuv.bayern.de/aktionen/bayern_entdecker/index.htm
 [quelleHeimatGeschichtsvereinErlangen]: https://hugv.de/app/fd/
 [quelleWikipediaMühlenNiedersachsen]: https://de.wikipedia.org/wiki/Niedersächsische_Mühlenstraße
