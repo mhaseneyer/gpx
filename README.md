@@ -12,16 +12,16 @@ Kontaktmöglichkeiten finden Sie unter [martin.haseneyer.de][kontaktMH].
 
 ## Die Dateien
 
-- [Bayern-Entdecker][dateiBayernEntdecker]:
+- **[Bayern-Entdecker][dateiBayernEntdecker]**:
   Stempel-Stationen des „Bayern-Entdecker“-Wettbewerbs. Auch ohne
   Wettbewerb schön zu stempeln. Quelle: [Umweltministerium Bayern][quelleBayernEntdecker]
-- [Flur- und Naturdenkmale im Sebalder Reichswald][dateiFlurdenkmaleReichswald]:
+- **[Flur- und Naturdenkmale im Sebalder Reichswald][dateiFlurdenkmaleReichswald]**:
   Im Wald südöstlich von Erlangen befinden sich über 50 Gedenksteine,
   Denkmale usw.; Quelle: [Heimat- und Geschichtsverein Erlangen][quelleHeimatGeschichtsvereinErlangen]
-- [Niedersächsische Mühlenstraße Ausschnitt][dateiMuehlenNiedersachsen]:
+- **[Niedersächsische Mühlenstraße (Ausschnitt)][dateiMuehlenNiedersachsen]**:
   ein Ausschnitt der niedersächsichen Mühlenstraße, hauptsächlich
   Weserbergland; Quelle: [Wikipedia][quelleWikipediaMühlenNiedersachsen]
-- [Windmühlen in Ostfriesland][dateiWindmühlenOstfriesland]:
+- **[Windmühlen in Ostfriesland][dateiWindmühlenOstfriesland]**:
   Liste der Windmühlen in Ostfriesland; Quelle: [Wikipedia][quelleWikipediaWindmühlenOstfriesland]
 
 ## Nutzung unter OsmAnd
